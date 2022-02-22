@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou @vncsegundo
 - 👀 Estou interessado em aprender programação 
-- 🌱 Atualmente estou aprendendo C#
+- 🌱 Atualmente estou aprendendo C#, HTML, CSS e JavaScript
 - 💞️ Estou querendo colaborar em projetos que contribuam pro meu desenvolvimento pessoal
 - 📫 Para entrar em contato: vncsegundo@gmail.com
